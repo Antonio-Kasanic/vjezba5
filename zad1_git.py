@@ -10,3 +10,5 @@ if __name__ == "__main__":
         print(provjera_broja(uneseni_broj))
     except ValueError:
         print("Unesena vrijednost nije broj.")
+
+        
